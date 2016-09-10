@@ -1,0 +1,2 @@
+pymongo
+MySQL-python
